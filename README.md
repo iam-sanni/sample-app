@@ -1,1 +1,2 @@
-Sample code which push over the EC2 server using Codedeploy and Jenkins.
+Sample code which push over the EC2 server.
+Using Codedeploy and Jenkins.
